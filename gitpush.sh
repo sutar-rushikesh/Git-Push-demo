@@ -1,3 +1,4 @@
 echo "this is demo for git push "
 echo "Hey iam learning how to push to github "
-echo"hello "
+echo "hello "
+echo "hello  trying to pushing in new branch  "
